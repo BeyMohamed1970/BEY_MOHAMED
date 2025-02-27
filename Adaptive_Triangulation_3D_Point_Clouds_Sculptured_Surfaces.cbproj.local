@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/24 08:43:33.000.557,=C:\Users\EQUIPE_CFAO\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2025/02/24 08:43:33.000.528,=C:\Users\EQUIPE_CFAO\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2025/02/24 08:43:47.000.672,C:\Users\EQUIPE_CFAO\Documents\Embarcadero\Studio\Projets\Unit1.dfm=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Unit1.dfm</Transaction>
+    <Transaction>2025/02/24 08:43:47.000.672,C:\Users\EQUIPE_CFAO\Documents\Embarcadero\Studio\Projets\Unit1.cpp=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Unit1.cpp</Transaction>
+    <Transaction>2025/02/24 08:43:47.000.672,C:\Users\EQUIPE_CFAO\Documents\Embarcadero\Studio\Projets\Unit1.h=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Unit1.h</Transaction>
+    <Transaction>2025/02/24 08:44:54.000.893,C:\Users\EQUIPE_CFAO\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Reconstruction_Surface_Nuage_Points.h</Transaction>
+    <Transaction>2025/02/24 08:45:35.000.587,C:\Users\EQUIPE_CFAO\Documents\Embarcadero\Studio\Projets\Project1.cbproj=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Reconstruction_Surface_Gauche_Nuage_Points.cbproj</Transaction>
+    <Transaction>2025/02/24 08:45:53.000.844,=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Unit904.cpp</Transaction>
+    <Transaction>2025/02/24 08:45:53.000.914,=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Unit3000.cpp</Transaction>
+    <Transaction>2025/02/24 08:45:54.000.325,=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Unit900000.cpp</Transaction>
+    <Transaction>2025/02/24 08:45:54.000.276,=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Unit3009.cpp</Transaction>
+    <Transaction>2025/02/24 08:45:54.000.177,=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER\Unit3001.cpp</Transaction>
+    <Transaction>2025/02/25 15:53:51.000.065,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Rendering.dfm=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit904.dfm</Transaction>
+    <Transaction>2025/02/25 15:53:51.000.065,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Rendering.h=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit904.h</Transaction>
+    <Transaction>2025/02/25 15:53:51.000.065,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Rendering.cpp=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit904.cpp</Transaction>
+    <Transaction>2025/02/25 15:55:11.000.926,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Visualization.h=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit1.h</Transaction>
+    <Transaction>2025/02/25 15:55:11.000.926,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Visualization.cpp=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit1.cpp</Transaction>
+    <Transaction>2025/02/25 15:55:11.000.926,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Visualization.dfm=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit1.dfm</Transaction>
+    <Transaction>2025/02/25 15:56:00.000.189,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Triangulation_Results.cpp=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit3009.cpp</Transaction>
+    <Transaction>2025/02/25 15:56:00.000.189,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Triangulation_Results.dfm=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit3009.dfm</Transaction>
+    <Transaction>2025/02/25 15:56:00.000.189,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Triangulation_Results.h=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit3009.h</Transaction>
+    <Transaction>2025/02/25 15:56:45.000.742,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Point_Clouds_Import.h=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit3000.h</Transaction>
+    <Transaction>2025/02/25 15:56:45.000.742,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Point_Clouds_Import.dfm=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit3000.dfm</Transaction>
+    <Transaction>2025/02/25 15:56:45.000.742,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Point_Clouds_Import.cpp=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit3000.cpp</Transaction>
+    <Transaction>2025/02/25 15:57:53.000.653,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Adaptive_Triangulation.h=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit3001.h</Transaction>
+    <Transaction>2025/02/25 15:57:53.000.653,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Adaptive_Triangulation.cpp=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit3001.cpp</Transaction>
+    <Transaction>2025/02/25 15:57:53.000.653,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Adaptive_Triangulation.dfm=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit3001.dfm</Transaction>
+    <Transaction>2025/02/25 15:58:25.000.290,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Zoom_Operation.h=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit900000.h</Transaction>
+    <Transaction>2025/02/25 15:58:25.000.290,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Zoom_Operation.dfm=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit900000.dfm</Transaction>
+    <Transaction>2025/02/25 15:58:25.000.290,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Zoom_Operation.cpp=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_COPIE\Unit900000.cpp</Transaction>
+    <Transaction>2025/02/25 21:28:25.000.248,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Adaptive_Triangulation.cpp=</Transaction>
+    <Transaction>2025/02/25 21:28:35.000.286,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Point_Clouds_Import.cpp=</Transaction>
+    <Transaction>2025/02/25 21:28:45.000.097,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Rendering.cpp=</Transaction>
+    <Transaction>2025/02/25 21:28:51.000.265,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Triangulation_Results.cpp=</Transaction>
+    <Transaction>2025/02/25 21:28:57.000.387,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Visualization.cpp=</Transaction>
+    <Transaction>2025/02/25 21:29:03.000.442,C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Zoom_Operation.cpp=</Transaction>
+    <Transaction>2025/02/25 21:29:56.000.422,=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Adaptive_Triangulation.cpp</Transaction>
+    <Transaction>2025/02/25 21:30:17.000.991,=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Triangulation_Results.cpp</Transaction>
+    <Transaction>2025/02/25 21:30:17.000.925,=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Point_Clouds_Import.cpp</Transaction>
+    <Transaction>2025/02/25 21:30:17.000.963,=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Rendering.cpp</Transaction>
+    <Transaction>2025/02/25 21:30:18.000.018,=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Visualization.cpp</Transaction>
+    <Transaction>2025/02/25 21:30:18.000.050,=C:\Users\EQUIPE_CFAO\Desktop\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_COPIE - Copie\Zoom_Operation.cpp</Transaction>
+    <Transaction>2025/02/26 14:59:32.000.948,F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_FINAL\Zoom_Operation.cpp=</Transaction>
+    <Transaction>2025/02/26 15:49:14.000.283,F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_FINAL\Adaptive_Triangulation_3D_Point_Clouds.cbproj=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\VERSION_REDUITE_APPROCHE_PAPIER_FINAL_FINAL\Reconstruction_Surface_Gauche_Nuage_Points.cbproj</Transaction>
+    <Transaction>2025/02/27 08:05:27.000.905,F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds.cbproj=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds_.cbproj</Transaction>
+    <Transaction>2025/02/27 08:07:08.942,F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds_Machining_Sculptured_Surfaces.cbproj=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds_.cbproj</Transaction>
+    <Transaction>2025/02/27 08:07:40.690,F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds.cbproj=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds_Machining_Sculptured_Surfaces.cbproj</Transaction>
+    <Transaction>2025/02/27 08:08:09.503,F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds_Machining_Sculptured_Surfaces.cbproj=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds.cbproj</Transaction>
+    <Transaction>2025/02/27 08:08:29.150,F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds_Sculptured_Surfaces.cbproj=F:\BEY_Publications_2025\FINALISATION_Publication_BEY_2025\23_Publication_BEY_AZOUAOUI_The Visual Computer_02_02_2025\Software_Approach_Adaptive_Triangulation_3D_Point_Clouds\Adaptive_Triangulation_3D_Point_Clouds_Machining_Sculptured_Surfaces.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Rendering.cpp"/>
+    <File Path="Rendering.cpp"/>
+    <File Path="Rendering.dfm"/>
+    <File Path="Rendering.h"/>
+    <File Path="Triangulation_Results.cpp"/>
+    <File Path="Triangulation_Results.cpp"/>
+    <File Path="Triangulation_Results.dfm"/>
+    <File Path="Triangulation_Results.h"/>
+    <File Path="Visualization.cpp"/>
+    <File Path="Visualization.cpp"/>
+    <File Path="Visualization.dfm"/>
+    <File Path="Visualization.h"/>
+    <File Path="Reconstruction_Surface_Nuage_Points.h"/>
+    <File Path="Adaptive_Triangulation.cpp"/>
+    <File Path="Adaptive_Triangulation.cpp"/>
+    <File Path="Adaptive_Triangulation.dfm"/>
+    <File Path="Adaptive_Triangulation.h"/>
+    <File Path="Adaptive_Triangulation_3D_Point_Clouds_Sculptured_Surfaces.cpp"/>
+    <File Path="Point_Clouds_Import.cpp"/>
+    <File Path="Point_Clouds_Import.cpp"/>
+    <File Path="Point_Clouds_Import.dfm"/>
+    <File Path="Point_Clouds_Import.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
