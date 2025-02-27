@@ -193,7 +193,7 @@ void __fastcall TVisualization::DrawObjects()
 	glLoadIdentity();
 
 	glClearColor(0, 0, 0, 0);
-    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT );
+	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT );
 
 	if (w <= h)
 		glOrtho (Visualization->scalex*nRangex_min, Visualization->scalex*nRangex_max, Visualization->scalex*nRangey_min*h/w, Visualization->scalex*nRangey_max*h/w, nRangez_min,nRangez_max);
@@ -212,17 +212,17 @@ void __fastcall TVisualization::DrawObjects()
 	 }
 
 	if(Visualization->proj_y==1)
-     {
-      glMultMatrixd(My_1);
-     }
+	 {
+	  glMultMatrixd(My_1);
+	 }
 
 	if(Visualization->proj_x==1)
 	 {
-      glMultMatrixd(Mx_1);
-     }
+	  glMultMatrixd(Mx_1);
+	 }
 
 //------------------------------------------------------
-    dessiner_axes_repere();
+	dessiner_axes_repere();
 
    if(Point_Clouds_Import->CheckBox4->Checked) Point_Clouds_Import->NUAGE_PTS_BEY.dessiner_nuage_pts();
    if(Point_Clouds_Import->CheckBox5->Checked) Point_Clouds_Import->NUAGE_PTS_BEY.dessiner_brut_min();
@@ -254,6 +254,7 @@ void __fastcall TVisualization::DrawObjects()
 //---------------------------------------------------------------------------
 if(Visualization->select_p1==true)
 {
+    glDisable(GL_DEPTH_TEST);
 	glLoadIdentity();
 
 	if (w <= h)
