@@ -10,7 +10,7 @@ The software is developed using C++ under the IDE Embarcadero and Windows 10.
 
 # Launching the software
 
-To run the software, open the project file "Adaptive_Triangulation_3D_Point_Clouds.cbproj". Then, all associated files will be charged. 
+To run the software, open the project file "Adaptive_Triangulation_3D_Point_Clouds_Sculptured_Surfaces.cbproj". Then, all associated files will be charged. 
 
 Inside embarcadero, compile, link, and then launch the execution of the developed software. 
 
