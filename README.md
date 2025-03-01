@@ -35,6 +35,6 @@ https://drive.google.com/drive/folders/1zgFLfEvdymhQyj50Bk4iiIe56RzphjSX?usp=sha
 
 # Citation
 
-If you find our work useful in your research, please consider citing:
+If you use our work or find it useful in your research, please cite our paper:
 
 Bey, M. and Azouaoui, K. (2025) Efficient and Adaptive Triangulation of 3D Point Clouds for Machining Sculptured Surfaces. Visual Computer, Vol. , pages.
